@@ -1,0 +1,4 @@
+Open powershell in vscode or antigravity and run these commands in order:
+1. .\venv311\Scripts\Activate.ps1
+if there are any Scripts error then after running the first command run this:
+2. Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
